@@ -4,4 +4,5 @@
 
 ## Efficient VLAs
 ### Efficient Architecture
-- SmolVLA: A vision-language-action model for affordable and efficient robotics. <ins>arXiv, 2025</ins> [[Paper]https://arxiv.org/abs/2506.01844]
+- SmolVLA: A vision-language-action model for affordable and efficient robotics. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.01844)]
+- 
