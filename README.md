@@ -22,6 +22,7 @@
 #### Layer Skipping
 - EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.10100)]
 - MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2503.20384)]
+- FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.04996)]
 #### Knowledge Distillation
 - MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2503.20384)]
 #### Efficient Use of Tokens
@@ -51,11 +52,14 @@
 #### Efficient Training
 - TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2409.12514)]
 - SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.09674)]
-- VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.09372)]
+
 #### Efficient Finetuning
 - TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2409.12514)]
 - RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation.<ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.04339)]
 - VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.01016)]
+- VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.09372)]
+- FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.04996)]
+- Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.04063)]
 
 ### Data and Benchmarks
 
