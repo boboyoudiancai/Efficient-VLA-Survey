@@ -60,6 +60,7 @@
 - VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.09372)]
 - FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.04996)]
 - Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.04063)]
+- Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.02055)]
 
 ### Data and Benchmarks
 
