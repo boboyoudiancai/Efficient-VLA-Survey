@@ -59,3 +59,6 @@
 #### Finetuning Data
 
 #### Benchmarks
+
+### Applications
+- RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.08820)]
