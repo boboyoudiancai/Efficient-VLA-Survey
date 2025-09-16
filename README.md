@@ -52,6 +52,7 @@
 - 
 #### Continuous Action Generation
 - SmolVLA: A vision-language-action model for affordable and efficient robotics. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.01844)]
+- GraphCoT-VLA: A 3D Spatial-Aware Reasoning Vision-Language-Action Model for Robotic Manipulation with Ambiguous Instructions. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.07650)]
 
 #### Hardward-Aware Acceleration
 - Leveraging OS-Level Primitives for Robotic Action Management. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.10259)]
