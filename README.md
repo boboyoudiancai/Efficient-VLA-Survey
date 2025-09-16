@@ -49,8 +49,12 @@
 - CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.21046)]
 - Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/pdf/2508.20072)]
 - ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.10333)]
+- 
 #### Continuous Action Generation
 - SmolVLA: A vision-language-action model for affordable and efficient robotics. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.01844)]
+
+#### Hardward-Aware Acceleration
+- Leveraging OS-Level Primitives for Robotic Action Management. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.10259)]
 
 ### Training
 
