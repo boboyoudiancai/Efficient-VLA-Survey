@@ -81,6 +81,7 @@
 #### Finetuning Data
 
 #### Benchmarks
+- Static and Plugged: Make Embodied Evaluation Simple. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/pdf/2508.06553)]
 
 ### Applications
 - RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.08820)]
