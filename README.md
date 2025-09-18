@@ -93,7 +93,8 @@
 - SmolVLA: A vision-language-action model for affordable and efficient robotics. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.01844)]
 - Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.15597)]
 - GR-3 Technical Report. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.15493)]
-- AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation. <ins>arXiv, 2025</ins> [[Paper](]https://arxiv.org/abs/2507.12768)]
+- AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.12768)]
+- EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.12440)]
 #### Pre-Training Data
 
 #### Finetuning Data
