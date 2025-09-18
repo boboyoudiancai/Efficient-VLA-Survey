@@ -55,7 +55,6 @@
 - CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.21046)]
 - Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/pdf/2508.20072)]
 - ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.10333)]
-- 
 #### Continuous Action Generation
 - SmolVLA: A vision-language-action model for affordable and efficient robotics. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.01844)]
 - GraphCoT-VLA: A 3D Spatial-Aware Reasoning Vision-Language-Action Model for Robotic Manipulation with Ambiguous Instructions. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.07650)]
@@ -92,8 +91,9 @@
 
 #### Finetuning Data
 
-#### Benchmarks
+#### Evaluation and Benchmarks
 - Static and Plugged: Make Embodied Evaluation Simple. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/pdf/2508.06553)]
+- Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.17049)]
 
 ### Applications
 - RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.08820)]
