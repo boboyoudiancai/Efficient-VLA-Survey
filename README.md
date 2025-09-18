@@ -81,6 +81,7 @@
 - RICL: Adding In-Context Adaptability to Pre-Trained Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.02062)]
 - Vision-Language-Action Instruction Tuning: From Understanding to Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.17520)]
 - Dual-Actor Fine-Tuning of VLA Models: A Talk-and-Tweak Human-in-the-Loop Approach. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.13774)]
+- GR-3 Technical Report. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.15493)]
 
 ### Data and Benchmarks
 
@@ -89,6 +90,7 @@
 - XRoboToolkit: A Cross-Platform Framework for Robot Teleoperation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.00097)]
 - SmolVLA: A vision-language-action model for affordable and efficient robotics. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.01844)]
 - Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.15597)]
+- GR-3 Technical Report. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.15493)]
 #### Pre-Training Data
 
 #### Finetuning Data
