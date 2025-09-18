@@ -85,6 +85,8 @@
 
 ### Data and Benchmarks
 
+#### Efficient Data Collection
+- ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.17462)]
 #### Pre-Training Data
 
 #### Finetuning Data
