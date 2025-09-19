@@ -8,6 +8,7 @@
 
 #### Vision Encoder
 - CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.21046)]
+- Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.19816)]
 #### Language Model
 - SmolVLA: A vision-language-action model for affordable and efficient robotics. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.01844)]
 - RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.04339)]
