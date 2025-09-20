@@ -103,6 +103,7 @@
 - EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.12440)]
 - RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.15212)]
 - RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.14687)]
+- RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.18088)]
 #### Pre-Training Data
 
 #### Finetuning Data
