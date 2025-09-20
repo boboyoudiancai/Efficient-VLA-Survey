@@ -51,6 +51,7 @@
 ##### Token Caching
 - VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2502.02175)]
 - EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.10100)]
+- Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07639)]
 #### Efficient Action Decoding
 ##### Generative Modeling-based Method
 - VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.01016)]
@@ -66,6 +67,10 @@
 - Spec-VLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.22424)]
 - CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.21046)]
 - EdgeVLA: Efficient Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.14049)]
+- Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07639)]
+#### Asynchronous Inference
+- Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07639)]
+- SmolVLA: A vision-language-action model for affordable and efficient robotics. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.01844)]
 #### Hardware-Aware Acceleration
 - Leveraging OS-Level Primitives for Robotic Action Management. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.10259)]
 
