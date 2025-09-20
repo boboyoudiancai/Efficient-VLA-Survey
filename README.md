@@ -57,6 +57,7 @@
 - ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.10333)]
 - SmolVLA: A vision-language-action model for affordable and efficient robotics. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.01844)]
 - GraphCoT-VLA: A 3D Spatial-Aware Reasoning Vision-Language-Action Model for Robotic Manipulation with Ambiguous Instructions. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.07650)]
+- MinD: Learning A Dual-System World Model for Real-Time Planning and Implicit Risk Analysis. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.18897)]
 ##### Parallel Decoding
 - Accelerating vision-language-action model integrated with action chunking via parallel decoding. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2503.02310)]
 - CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.13725)]
