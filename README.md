@@ -119,3 +119,4 @@
 - RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.08820)]
 - FastDriveVLA: Efficient End-to-End Driving via Plug-and-Play Reconstruction-based Token Pruning. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.23318)]
 - GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.14009)]
+- Hybrid Reasoning for Perception, Explanation, and Autonomous Action in Manufacturing. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.08462)]
