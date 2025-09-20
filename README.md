@@ -16,6 +16,7 @@
 - F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.06951)]
 - EdgeVLA: Efficient Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.14049)]
 - RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.17639)]
+- BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07530)]
 #### Action Decoder
 - RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.04339)]
 - SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.12723)]
