@@ -120,6 +120,7 @@
 - RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.15212)]
 - RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.14687)]
 - RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.18088)]
+- Genie Centurion: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.18793)]
 #### Pre-Training Data
 
 #### Finetuning Data
