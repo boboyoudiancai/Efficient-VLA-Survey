@@ -7,7 +7,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 
 ## Efficient VLAs
 
-### Architecture
+### Algorithm-Level Efficiency
 
 #### Vision Encoder
 - CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.21046)]
@@ -26,9 +26,6 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/pdf/2509.05614)]
 #### Hierarchical Architecture
 - Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.01953)]
-
-### Inference
-
 #### Layer Skipping
 - EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.10100)]
 - MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2503.20384)]
@@ -81,19 +78,20 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07639)]
 - SmolVLA: A vision-language-action model for affordable and efficient robotics. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.01844)]
 - Real-Time Execution of Action Chunking Flow Policies. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07339)]
-#### Hardware-Aware Acceleration
+
+### Hardware-Aware Efficiency
 - Leveraging OS-Level Primitives for Robotic Action Management. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.10259)]
 
-### Training
+### Training Efficiency
 
-#### Efficient Training
+#### Efficient Pre-Training
 - TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2409.12514)]
 - SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.09674)]
 - Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.19958)]
 - FlowVLA: Thinking in Motion with a Visual Chain of Thought. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.18269)]
 - VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.05116)]
 - cVLA: Towards Efficient Camera-Space VLAs. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.02190)]
-#### Efficient Finetuning
+#### Efficient Post-Training
 - TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2409.12514)]
 - RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation.<ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.04339)]
 - VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.01016)]
@@ -111,8 +109,9 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.23705)]
 - VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.18719)]
 - Interactive Post-Training for Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.17016)]
+#### Trianing-Free Method
 
-### Data and Benchmarks
+### Data Efficiency
 
 #### Efficient Data Collection
 - ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.17462)]
@@ -130,7 +129,8 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 
 #### Finetuning Data
 
-#### Evaluation and Benchmarks
+### Evaluation
+#### Efficient Evaluation
 - Static and Plugged: Make Embodied Evaluation Simple. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.06553)]
 - Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.17049)]
 
