@@ -36,8 +36,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - FedVLA: Federated Vision-Language-Action Learning with Dual Gating Mixture-of-Experts for Robotic Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.02190)]
 - Learning to See and Act: Task-Aware View Planning for Robotic Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/pdf/2508.05186)]
 - Vision-Language-Action Instruction Tuning: From Understanding to Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.17520)]
-#### Knowledge Distillation
-- MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2503.20384)]
+
 #### Efficient Use of Tokens
 
 ##### Token Compression
