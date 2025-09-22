@@ -1,9 +1,9 @@
 # 🚀Efficient-VLA-Survey
 > This is a curated list of "A Survey on Efficient Vision-Language Action Model" research.
 
-To our knowledge, this is the first survey in the field of Embodied AI to provide a complete and comprehensive review of the history and cutting-edge advances in Efficient VLA. We will continue to UPDATE this repository to provide you with the most up-to-date cutting-edge developments, so stay tuned!😘
+To our knowledge, this is the first survey in the field of Embodied AI to provide a complete and comprehensive review of the history and cutting-edge advances in Efficient VLA. We will continue to UPDATE this repository to provide you with the most up-to-date cutting-edge developments, so stay tuned!😘 We hope that our work will bring some inspiration to you.😉
 
-> Our paper will be published in the near future. We hope that our work will bring some inspiration to you.😉
+‼Pre-print version to be released soon.
 
 ## Efficient VLAs
 
