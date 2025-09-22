@@ -110,6 +110,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - ControlVLA: Few-shot Object-centric Adaptation for Pre-trained Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.16211)]
 - Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.23705)]
 - VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.18719)]
+- Interactive Post-Training for Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.17016)]
 
 ### Data and Benchmarks
 
