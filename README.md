@@ -152,3 +152,4 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.14009)]
 - Hybrid Reasoning for Perception, Explanation, and Autonomous Action in Manufacturing. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.08462)]
 - CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games. <ins>ICCV, 2025</ins> [[Paper](https://arxiv.org/abs/2503.09527)]
+- Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2502.14795)]
