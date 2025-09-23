@@ -127,6 +127,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.18088)]
 - Genie Centurion: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.18793)]
 - Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware. <ins>CoRL, 2025</ins> [[Paper](https://arxiv.org/abs/2505.09601)]
+- GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.03233)]
 #### Pre-Training Data
 
 #### Finetuning Data
