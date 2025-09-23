@@ -71,6 +71,8 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - EdgeVLA: Efficient Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.14049)]
 - Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07639)]
 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2502.19645)]
+  
+#### Training-Free Inference Efficiency
 
 #### Asynchronous Inference
 - Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07639)]
@@ -80,7 +82,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 ### Hardware-Aware Efficiency
 - Leveraging OS-Level Primitives for Robotic Action Management. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.10259)]
 
-### Training-Free Inference Efficiency
+
 
 ### Training Efficiency
 
