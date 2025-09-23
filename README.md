@@ -81,6 +81,8 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 ### Hardware-Aware Efficiency
 - Leveraging OS-Level Primitives for Robotic Action Management. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.10259)]
 
+### Training-Free Inference Efficiency
+
 ### Training Efficiency
 
 #### Efficient Pre-Training
@@ -90,6 +92,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - FlowVLA: Thinking in Motion with a Visual Chain of Thought. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.18269)]
 - VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.05116)]
 - cVLA: Towards Efficient Camera-Space VLAs. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.02190)]
+- Conditioning Matters: Training Diffusion Policies is Faster Than You Think. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.11123)]
 #### Efficient Post-Training
 - TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2409.12514)]
 - RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation.<ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.04339)]
@@ -111,11 +114,10 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - Prepare Before You Act: Learning From Humans to Rearrange Initial States. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.18043)]
 - Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.15304)]
 - Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.15098)]
-#### Trianing-Free Method
 
-### Data Efficiency
+### Efficient Data Collection
 
-#### Efficient Data Collection
+#### Sim/Real
 - ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.17462)]
 - XRoboToolkit: A Cross-Platform Framework for Robot Teleoperation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.00097)]
 - SmolVLA: A vision-language-action model for affordable and efficient robotics. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.01844)]
