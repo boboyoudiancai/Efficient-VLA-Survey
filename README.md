@@ -95,6 +95,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - cVLA: Towards Efficient Camera-Space VLAs. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.02190)]
 - Conditioning Matters: Training Diffusion Policies is Faster Than You Think. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.11123)]
 - Training Strategies for Efficient Embodied Reasoning. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.08243)]
+- Latent Action Pretraining Through World Modeling. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.18428)]
 #### Efficient Post-Training
 - TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2409.12514)]
 - RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation.<ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.04339)]
