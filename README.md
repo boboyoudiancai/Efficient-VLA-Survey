@@ -143,6 +143,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.03233)]
 - Boosting Robotic Manipulation Generalization with Minimal Costly Data. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2503.19516)]
 - ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis. <ins>IROS, 2025</ins> [[Paper](https://arxiv.org/abs/2503.14526)]
+- An Atomic Skill Library Construction Method for Data-Efficient Embodied Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2501.15068)]
 #### Pre-Training Data
 
 #### Finetuning Data
