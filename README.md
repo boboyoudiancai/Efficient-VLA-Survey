@@ -122,6 +122,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2503.13446)]
 - Refined Policy Distillation: From VLA Generalists to RL Experts. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2503.05833)]
 - HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2502.05485)]
+- ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2502.05450)]
 
 ### Efficient Data Collection
 
