@@ -13,6 +13,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.04339)]
 - EdgeVLA: Efficient Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.14049)]
 - NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2504.19854)]
+- Scalable, Training-Free Visual Language Robotics: a modular multi-model framework for consumer-grade GPUs. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2502.01071)]
 
 #### Quantization
 - BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07530)]
