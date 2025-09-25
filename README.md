@@ -20,6 +20,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 #### Quantization
 - BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07530)]
 - Learning to Act Anywhere with Task-centric Latent Actions. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.06111)]
+- Quantization-Aware Imitation-Learning for Resource-Efficient Robotic Control. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2412.01034)]
 
 #### Hierarchical Architecture
 - Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.01953)]
