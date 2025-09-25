@@ -145,6 +145,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis. <ins>IROS, 2025</ins> [[Paper](https://arxiv.org/abs/2503.14526)]
 - An Atomic Skill Library Construction Method for Data-Efficient Embodied Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2501.15068)]
 - OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2501.03841)]
+- Beyond Human Demonstrations: Diffusion-Based Reinforcement Learning to Generate Data for VLA Training. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.19752)]
 #### Pre-Training Data
 
 #### Finetuning Data
