@@ -15,6 +15,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2504.19854)]
 - Scalable, Training-Free Visual Language Robotics: a modular multi-model framework for consumer-grade GPUs. <ins>SII, 2025</ins> [[Paper](https://arxiv.org/abs/2502.01071)]
 - TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies. <ins>ICLR, 2025</ins> [[Paper](https://arxiv.org/abs/2412.10345)]
+- Diffusion-VLA: Generalizable and Interpretable Robot Foundation Model via Self-Generated Reasoning. <ins>ICML, 2025</ins> [[Paper](https://arxiv.org/abs/2412.03293)]
 
 #### Quantization
 - BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07530)]
@@ -126,6 +127,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - Refined Policy Distillation: From VLA Generalists to RL Experts. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2503.05833)]
 - HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2502.05485)]
 - ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2502.05450)]
+- Diffusion-VLA: Generalizable and Interpretable Robot Foundation Model via Self-Generated Reasoning. <ins>ICML, 2025</ins> [[Paper](https://arxiv.org/abs/2412.03293)]
 
 ### Efficient Data Collection
 
