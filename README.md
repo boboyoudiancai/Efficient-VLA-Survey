@@ -107,6 +107,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2502.10040)]
 - DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control. <ins>CoRL, 2025</ins> [[Paper](https://arxiv.org/abs/2502.05855)]
 - Diffusion-VLA: Generalizable and Interpretable Robot Foundation Model via Self-Generated Reasoning. <ins>ICML, 2025</ins> [[Paper](https://arxiv.org/abs/2412.03293)]
+- Latent Action Pretraining from Videos. <ins>ICLR, 2025</ins> [[Paper](https://arxiv.org/abs/2410.11758)]
 #### Efficient Post-Training
 - TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2409.12514)]
 - RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation.<ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.04339)]
