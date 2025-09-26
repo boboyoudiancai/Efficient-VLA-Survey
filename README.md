@@ -59,6 +59,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.10100)]
 - Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07639)]
 - Think Twice, Act Once: Token-Aware Compression and Action Reuse for Efficient Inference in Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.21200)]
+- RetoVLA: Reusing Register Tokens for Spatial Reasoning in Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.21126)]
 #### Efficient Action Decoding
 ##### Generative Modeling-based Method
 - VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.01016)]
@@ -130,6 +131,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2502.05485)]
 - ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2502.05450)]
 - Diffusion-VLA: Generalizable and Interpretable Robot Foundation Model via Self-Generated Reasoning. <ins>ICML, 2025</ins> [[Paper](https://arxiv.org/abs/2412.03293)]
+- Teaching RL Agents to Act Better: VLM as Action Advisor for Online Reinforcement Learning. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.21243)]
 
 ### Efficient Data Collection
 
