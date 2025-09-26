@@ -18,6 +18,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - Diffusion-VLA: Generalizable and Interpretable Robot Foundation Model via Self-Generated Reasoning. <ins>ICML, 2025</ins> [[Paper](https://arxiv.org/abs/2412.03293)]
 - CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision. <ins>RSS, 2025</ins> [[Paper](https://arxiv.org/abs/2411.00508)]
 - TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. <ins>RA-L, 2025</ins> [[Paper](https://arxiv.org/abs/2409.12514)]
+- SARA-RT: Scaling up Robotics Transformers with Self-Adaptive Robust Attention. <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2312.01990)]
 
 #### Quantization
 - BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07530)]
