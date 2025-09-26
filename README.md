@@ -28,6 +28,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.03912)]
 - A Dual Process VLA: Efficient Robotic Manipulation Leveraging VLM. <ins>CoRL, 2025</ins> [[Paper](https://arxiv.org/abs/2410.15549)]
 - Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2410.08001)]
+- HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers. <ins>CoRL, 2024</ins> [[Paper](https://arxiv.org/abs/2410.05273)]
 
 #### Layer Skipping
 - EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.10100)]
