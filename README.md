@@ -170,6 +170,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - Beyond Human Demonstrations: Diffusion-Based Reinforcement Learning to Generate Data for VLA Training. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.19752)]
 - Developing Vision-Language-Action Model from Egocentric Videos. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.21986)]
 - MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.22199)]
+- EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.22407)]
 
 #### Pre-Training Data
 
