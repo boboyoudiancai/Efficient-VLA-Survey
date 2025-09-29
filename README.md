@@ -19,6 +19,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision. <ins>RSS, 2025</ins> [[Paper](https://arxiv.org/abs/2411.00508)]
 - TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. <ins>RA-L, 2025</ins> [[Paper](https://arxiv.org/abs/2409.12514)]
 - SARA-RT: Scaling up Robotics Transformers with Self-Adaptive Robust Attention. <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2312.01990)]
+- KV-Efficient VLA: A Method of Speed up Vision Language Model with RNN-Gated Chunked KV Cache. [[Paper](https://arxiv.org/abs/2509.21354)]
 
 #### Quantization
 - BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07530)]
