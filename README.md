@@ -94,6 +94,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07639)]
 - SmolVLA: A vision-language-action model for affordable and efficient robotics. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.01844)]
 - Real-Time Execution of Action Chunking Flow Policies. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07339)]
+- Leave No Observation Behind: Real-time Correction for VLA Action Chunks. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.23224)]
 
 ### Hardware-Aware Efficiency
 - Leveraging OS-Level Primitives for Robotic Action Management. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.10259)]
