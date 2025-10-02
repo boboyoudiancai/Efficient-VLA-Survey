@@ -148,6 +148,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - Teaching RL Agents to Act Better: VLM as Action Advisor for Online Reinforcement Learning. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.21243)]
 - OpenVLA: An Open-Source Vision-Language-Action Model. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.09246)]
 - A Self-Correcting Vision-Language-Action Model for Fast and Slow System Manipulation. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.17418)]
+- World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2509.24948)]
 
 ### Efficient Data Collection
 
