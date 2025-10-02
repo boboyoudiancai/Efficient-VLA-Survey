@@ -118,6 +118,7 @@ To our knowledge, this is the first survey in the field of Embodied AI to provid
 - Latent Action Pretraining from Videos. <ins>ICLR, 2025</ins> [[Paper](https://arxiv.org/abs/2410.11758)]
 - LLaRA: Supercharging Robot Learning Data for Vision-Language Policy. <ins>ICLR, 2025</ins> [[Paper](https://arxiv.org/abs/2406.20095)]
 - Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping. <ins>RA-L, 2025</ins> [[Paper](https://arxiv.org/abs/2406.15677)]
+- Focusing on What Matters: Object-Agent-centric Tokenization for Vision Language Action Models. <ins>RA-L, 2025</ins> [[Paper](https://arxiv.org/abs/2509.23655)]
 #### Efficient Post-Training
 - TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. <ins>RA-L, 2025</ins> [[Paper](https://arxiv.org/abs/2409.12514)]
 - RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation.<ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.04339)]
