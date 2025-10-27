@@ -7,6 +7,7 @@ To the best of our knowledge, this work presents the first comprehensive survey 
 
 ## Overview
 ![TOC](assets/TOC.png)
+**The Organization of Our Survey.** We systematically categorize efficient VLAs into three core pillars: (1) **Efficient Model Design**, encompassing efficient architectures and model compression techniques; (2) **Efficient Training**, covering efficient pre-training and post-training strategies; and (3) **Efficient Data Collection**, including efficient data collection and augmentation methods. The framework also reviews VLA foundations, key applications, challenges, and future directions, establishing the groundwork for advancing scalable embodied intelligence.
 ## Efficient VLAs
 
 ### Algorithm-Level Efficiency
