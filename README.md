@@ -5,6 +5,8 @@ To the best of our knowledge, this work presents the first comprehensive survey 
 
 ❗Pre-print version to be released soon.
 
+## Overview
+![TOC](assets/TOC.png)
 ## Efficient VLAs
 
 ### Algorithm-Level Efficiency
