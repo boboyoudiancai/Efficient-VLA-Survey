@@ -82,10 +82,13 @@ Fig. 4: Key strategies for **Efficient Training** in VLAs, divided into two main
 Fig. 5: Taxonomy of **Efficient Data Collection** strategies in VLAs. This figure illustrates the primary approaches, encompassing human-in-the-loop, simulated, reusability-oriented, self-driven, and augmentative techniques for scalable acquisition of high-quality robotic datasets while minimizing resource overhead.
 
 ##### Human-in-the-Loop Data Collection
-| Year | Venue | Paper | Website | Code |
-|------|-------|-------|---------|------|
-| 2024 | NeurIPS | [RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation](https://arxiv.org/abs/2406.04339) | [🌐](https://sites.google.com/view/robomamba-web) | [💻](https://github.com/lmzpai/roboMamba) |
-| 2025 | arXiv | [FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation](https://arxiv.org/abs/2506.16201) | - | - |
+| Year | Venue | Paper       | Website | Code |
+| ---- | ----- | ----------- | ------- | ---- |
+| Year | Venue | Paper                                                                                                                                              | Website                                  | Code                                      |
+| ---- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------- |
+| 2024 | RSS   | [CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision](https://arxiv.org/abs/2411.00508)                      | [🌐](https://clip-rt.github.io/)         | [💻](https://github.com/clip-rt/clip-rt)  |
+| 2025 | arXiv | [GCENT: Genie Centurion — Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance](https://arxiv.org/abs/2505.18793) | [🌐](https://genie-centurion.github.io/) | [💻](https://huggingface.co/agibot-world) |
+
 
 ##### Simulation Data Collection
 
