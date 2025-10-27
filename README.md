@@ -8,65 +8,40 @@ To the best of our knowledge, this work presents the first comprehensive survey 
 ## Overview
 ![TOC](assets/TOC.png)
 **The Organization of Our Survey.** We systematically categorize efficient VLAs into three core pillars: (1) **Efficient Model Design**, encompassing efficient architectures and model compression techniques; (2) **Efficient Training**, covering efficient pre-training and post-training strategies; and (3) **Efficient Data Collection**, including efficient data collection and augmentation methods. The framework also reviews VLA foundations, key applications, challenges, and future directions, establishing the groundwork for advancing scalable embodied intelligence.
+
 ## Efficient VLAs
 
-### Algorithm-Level Efficiency
+### Efficient Model Design
 
-#### Efficient Architecture
+#### Efficient Architectures
+![Efficient_Architectures](assets/Efficient_Architectures.png)
 - RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.04339)]
-- EdgeVLA: Efficient Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.14049)]
-- NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2504.19854)]
-- Scalable, Training-Free Visual Language Robotics: a modular multi-model framework for consumer-grade GPUs. <ins>SII, 2025</ins> [[Paper](https://arxiv.org/abs/2502.01071)]
-- TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies. <ins>ICLR, 2025</ins> [[Paper](https://arxiv.org/abs/2412.10345)]
-- Diffusion-VLA: Generalizable and Interpretable Robot Foundation Model via Self-Generated Reasoning. <ins>ICML, 2025</ins> [[Paper](https://arxiv.org/abs/2412.03293)]
-- CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision. <ins>RSS, 2025</ins> [[Paper](https://arxiv.org/abs/2411.00508)]
-- TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. <ins>RA-L, 2025</ins> [[Paper](https://arxiv.org/abs/2409.12514)]
-- SARA-RT: Scaling up Robotics Transformers with Self-Adaptive Robust Attention. <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2312.01990)]
-- KV-Efficient VLA: A Method of Speed up Vision Language Model with RNN-Gated Chunked KV Cache. [[Paper](https://arxiv.org/abs/2509.21354)]
 
-#### Quantization
+
+##### Efficient Attention
 - BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.07530)]
-- Learning to Act Anywhere with Task-centric Latent Actions. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.06111)]
-- Quantization-Aware Imitation-Learning for Resource-Efficient Robotic Control. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2412.01034)]
-- OpenVLA: An Open-Source Vision-Language-Action Model. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.09246)]
 
-#### Hierarchical Architecture
+
+##### Transformer Alternatives
 - Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.01953)]
-- OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.03912)]
-- A Dual Process VLA: Efficient Robotic Manipulation Leveraging VLM. <ins>CoRL, 2025</ins> [[Paper](https://arxiv.org/abs/2410.15549)]
-- Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2410.08001)]
-- HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers. <ins>CoRL, 2024</ins> [[Paper](https://arxiv.org/abs/2410.05273)]
+
 
 #### Layer Skipping
 - EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.10100)]
-- MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2503.20384)]
-- FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.04996)]
-- NinA: Normalizing Flows in Action. Training VLA Models with Normalizing Flows. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.16845)]
-- DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution. <ins>NeurIPS, 2024</ins> [[Paper](https://arxiv.org/abs/2411.02359)]
+
 
 #### Mixture-of-Experts
 - MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2503.20384)]
-- FedVLA: Federated Vision-Language-Action Learning with Dual Gating Mixture-of-Experts for Robotic Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.02190)]
-- Learning to See and Act: Task-Aware View Planning for Robotic Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/pdf/2508.05186)]
-- Vision-Language-Action Instruction Tuning: From Understanding to Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.17520)]
-- GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot. <ins>IROS, 2024</ins> [[Paper](https://arxiv.org/abs/2403.13358)]
+
 
 #### Efficient Use of Tokens
 
 ##### Token Compression
 - FAST: Efficient Action Tokenization for Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2501.09747)]
-- F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.06951)]
-- VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.01016)]
-- VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2507.05116)]
+
 ##### Token Pruning
 - SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.12723)]
-- EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.10100)]
-- SQAP-VLA: A Synergistic Quantization-Aware Pruning Framework for High-Performance Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.09090)]
-- SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/pdf/2509.05614)]
-- CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2508.21046)]
-- The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.12594)]
-- Think Twice, Act Once: Token-Aware Compression and Action Reuse for Efficient Inference in Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.21200)]
-- Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.22093)]
+
 ##### Token Caching
 - VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2502.02175)]
 - EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.10100)]
