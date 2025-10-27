@@ -106,18 +106,52 @@ Fig. 4: Key strategies for **Efficient Training** in VLAs, divided into two main
 Fig. 5: Taxonomy of **Efficient Data Collection** strategies in VLAs. This figure illustrates the primary approaches, encompassing human-in-the-loop, simulated, reusability-oriented, self-driven, and augmentative techniques for scalable acquisition of high-quality robotic datasets while minimizing resource overhead.
 
 ##### Human-in-the-Loop Data Collection
-| Year | Venue | Paper | Website | Code |
-|------|-------|-------|---------|------|
-| 2024 | NeurIPS | [RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation](https://arxiv.org/abs/2406.04339) | [🌐](https://sites.google.com/view/robomamba-web) | [💻](https://github.com/lmzpai/roboMamba) |
-| 2025 | arXiv | [FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation](https://arxiv.org/abs/2506.16201) | - | - |
-
+| Year | Venue | Paper                                                                                                                                              | Website                                  | Code                                      |
+| ---- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------- |
+| 2024 | RSS   | [CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision](https://arxiv.org/abs/2411.00508)                      | [🌐](https://clip-rt.github.io/)         | [💻](https://github.com/clip-rt/clip-rt)  |
+| 2025 | arXiv | [GCENT: Genie Centurion — Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance](https://arxiv.org/abs/2505.18793) | [🌐](https://genie-centurion.github.io/) | [💻](https://huggingface.co/agibot-world) |
 ##### Simulation Data Collection
+| Year | Venue | Paper                                                                                                                                                               | Website                                                       | Code                                                |
+| ---- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------- |
+| 2024 | IROS  | [GeRM: A Generalist Robotic Model with Mixture-of-Experts for Quadruped Robot](https://arxiv.org/abs/2403.13358)                                                    | [🌐](https://songwxuan.github.io/GeRM/)                       | [💻](https://github.com/Songwxuan/GeRM)             |
+| 2025 | arXiv | [GraspVLA: A Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data](https://arxiv.org/abs/2505.03233)                                        | [🌐](https://pku-epic.github.io/GraspVLA-web/)                | [💻](https://github.com/PKU-EPIC/GraspVLA)          |
+| 2025 | arXiv | [cVLA: Towards Efficient Camera-Space VLAs](https://arxiv.org/abs/2507.02190)                                                                                       | -                                                             | -                                                   |
+| 2025 | arXiv | [RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://arxiv.org/abs/2506.18088) | [🌐](https://robotwin-platform.github.io/)                    | [💻](https://github.com/robotwin-Platform/RoboTwin) |
+| 2025 | arXiv | [ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis](https://arxiv.org/abs/2503.14526)                                                  | [🌐](https://yuffish.github.io/rebot/)                        | [💻](https://github.com/yuffish/rebot)              |
+| 2025 | arXiv | [Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware](https://arxiv.org/abs/2505.09601)                                              | [🌐](https://real2render2real.com/)                           | [💻](https://github.com/uynitsuj/real2render2real)  |
+| 2025 | arXiv | [RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI](https://arxiv.org/abs/2509.14687)                                        | [🌐](https://terminators2025.github.io/RealMirror.github.io/) | -                                                   |
 
 ##### Internet-Scale and Cross-Domain Data Utilization
+| Year | Venue | Paper                                                                                                               | Website                                                            | Code                                                                                |
+| ---- | ----- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| 2025 | arXiv | [SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics](https://arxiv.org/abs/2506.01844)   | [🌐](https://huggingface.co/blog/smolvla)                          | [💻](https://github.com/huggingface/lerobot/tree/main/src/lerobot/policies/smolvla) |
+| 2025 | arXiv | [EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos](https://arxiv.org/abs/2507.12440)     | [🌐](https://rchalyang.github.io/EgoVLA/)                          | -                                                                                   |
+| 2025 | arXiv | [RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation](https://arxiv.org/abs/2509.15212)           | [🌐](https://huggingface.co/blog/Alibaba-DAMO-Academy/rynnvla-001) | [💻](https://github.com/alibaba-damo-academy/RynnVLA-001)                           |
+| 2025 | arXiv | [EgoScaler: Developing Vision-Language-Action Model from Egocentric Videos](https://arxiv.org/abs/2509.21986)       | -                                                                  | -                                                                                   |
+| 2025 | arXiv | [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597)      | [🌐](https://beingbeyond.github.io/Being-H0/)                      | [💻](https://github.com/BeingBeyond/Being-H0)                                       |
+| 2025 | arXiv | [MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training](https://arxiv.org/abs/2509.22199) | -                                                                  | -                                                                                   |
+| 2025 | arXiv | [EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer](https://arxiv.org/abs/2509.22407) | [🌐](https://emma-gigaai.github.io/)                               | -                                                                                   |
+| 2025 | arXiv | [Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration](https://arxiv.org/abs/2502.14795)        | -                                                                  | -                                                                                   |
 
 ##### Self-Exploration Data Collection
 
+| Year | Venue | Paper                                                                                                                                     | Website                          | Code                                            |
+| ---- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ----------------------------------------------- |
+| 2025 | arXiv | [AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation](https://arxiv.org/abs/2507.12768)                                     | -                                | -                                               |
+| 2025 | arXiv | [SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning](https://arxiv.org/abs/2509.09674)                                         | -                                | [💻](https://github.com/PRIME-RL/SimpleVLA-RL)  |
+| 2025 | arXiv | [Beyond Human Demonstrations: Diffusion-Based Reinforcement Learning to Generate Data for VLA Training](https://arxiv.org/abs/2509.19752) | -                                | -                                               |
+| 2025 | arXiv | [World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](https://arxiv.org/abs/2509.24948)                      | -                                | -                                               |
+| 2025 | arXiv | [VLA-RFT: Vision-Language-Action Reinforcement Fine-Tuning with Verified Rewards in World Simulators](https://arxiv.org/abs/2510.00406)   | [🌐](https://vla-rft.github.io/) | [💻](https://github.com/OpenHelix-Team/VLA-RFT) |
+
 ##### Data Augmentation
+
+| Year | Venue | Paper                                                                                                                         | Website                                                       | Code                                                |
+| ---- | ----- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------- |
+| 2025 | arXiv | [LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](https://arxiv.org/abs/2406.20095)                       | -                                                             | [💻](https://github.com/LostXine/LLaRA)             |
+| 2025 | arXiv | [Vision-Language-Action Instruction Tuning: From Understanding to Manipulation](https://arxiv.org/abs/2507.17520)             | [🌐](https://yangs03.github.io/InstructVLA_Home/)             | [💻](https://github.com/InternRobotics/InstructVLA) |
+| 2025 | arXiv | [RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation](https://arxiv.org/abs/2509.08820)           | [🌐](https://zzongzheng0918.github.io/RoboChemist.github.io/) | -                                                   |
+| 2024 | arXiv | [CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision](https://arxiv.org/abs/2411.00508) | [🌐](https://clip-rt.github.io/)                              | [💻](https://github.com/clip-rt/clip-rt)            |
+| 2025 | arXiv | [ERMV: Editing 4D Robotic Multi-view Images to Enhance Embodied Agents](https://arxiv.org/abs/2507.17462)                     | -                                                             | [💻](https://github.com/IRMVLab/ERMV)               |
 
 ## Contact Us
 
