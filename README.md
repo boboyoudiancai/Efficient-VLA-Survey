@@ -82,15 +82,20 @@ Fig. 4: Key strategies for **Efficient Training** in VLAs, divided into two main
 Fig. 5: Taxonomy of **Efficient Data Collection** strategies in VLAs. This figure illustrates the primary approaches, encompassing human-in-the-loop, simulated, reusability-oriented, self-driven, and augmentative techniques for scalable acquisition of high-quality robotic datasets while minimizing resource overhead.
 
 ##### Human-in-the-Loop Data Collection
-| Year | Venue | Paper       | Website | Code |
-| ---- | ----- | ----------- | ------- | ---- |
 | Year | Venue | Paper                                                                                                                                              | Website                                  | Code                                      |
 | ---- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------- |
 | 2024 | RSS   | [CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision](https://arxiv.org/abs/2411.00508)                      | [🌐](https://clip-rt.github.io/)         | [💻](https://github.com/clip-rt/clip-rt)  |
 | 2025 | arXiv | [GCENT: Genie Centurion — Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance](https://arxiv.org/abs/2505.18793) | [🌐](https://genie-centurion.github.io/) | [💻](https://huggingface.co/agibot-world) |
-
-
 ##### Simulation Data Collection
+| Year | Venue | Paper                                                                                                                                                               | Website                                                       | Code                                                |
+| ---- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------- |
+| 2024 | IROS  | [GeRM: A Generalist Robotic Model with Mixture-of-Experts for Quadruped Robot](https://arxiv.org/abs/2403.13358)                                                    | [🌐](https://songwxuan.github.io/GeRM/)                       | [💻](https://github.com/Songwxuan/GeRM)             |
+| 2025 | arXiv | [GraspVLA: A Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data](https://arxiv.org/abs/2505.03233)                                        | [🌐](https://pku-epic.github.io/GraspVLA-web/)                | [💻](https://github.com/PKU-EPIC/GraspVLA)          |
+| 2025 | arXiv | [cVLA: Towards Efficient Camera-Space VLAs](https://arxiv.org/abs/2507.02190)                                                                                       | -                                                             | -                                                   |
+| 2025 | arXiv | [RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://arxiv.org/abs/2506.18088) | [🌐](https://robotwin-platform.github.io/)                    | [💻](https://github.com/robotwin-Platform/RoboTwin) |
+| 2025 | arXiv | [ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis](https://arxiv.org/abs/2503.14526)                                                  | [🌐](https://yuffish.github.io/rebot/)                        | [💻](https://github.com/yuffish/rebot)              |
+| 2025 | arXiv | [Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware](https://arxiv.org/abs/2505.09601)                                              | [🌐](https://real2render2real.com/)                           | [💻](https://github.com/uynitsuj/real2render2real)  |
+| 2025 | arXiv | [RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI](https://arxiv.org/abs/2509.14687)                                        | [🌐](https://terminators2025.github.io/RealMirror.github.io/) | -                                                   |
 
 ##### Internet-Scale and Cross-Domain Data Utilization
 
