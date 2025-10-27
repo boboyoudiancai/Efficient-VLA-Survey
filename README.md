@@ -32,7 +32,10 @@ Fig. 2: Key strategies for **Efficient Architectures** in VLAs. We illustrate si
 | 2025 | arXiv | [FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation](https://arxiv.org/abs/2506.16201) | - | - |
 
 ##### Efficient Action Decoding
-- EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.10100)]
+| Year | Venue | Paper | Website | Code |
+|------|-------|-------|---------|------|
+| 2024 | NeurIPS | [RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation](https://arxiv.org/abs/2406.04339) | [🌐](https://sites.google.com/view/robomamba-web) | [💻](https://github.com/lmzpai/roboMamba) |
+| 2025 | arXiv | [FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation](https://arxiv.org/abs/2506.16201) | - | - |
 
 ##### Lightweight Component
 - MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2503.20384)]
@@ -91,3 +94,9 @@ Fig. 5: Taxonomy of **Efficient Data Collection** strategies in VLAs. This figur
 ##### Self-Exploration Data Collection
 
 ##### Data Augmentation
+
+## Contact Us
+
+For any questions or suggestions, please feel free to contact us at:
+
+Email: yuzhaoshu@gmail.com
