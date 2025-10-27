@@ -15,7 +15,7 @@ To the best of our knowledge, this work presents the first comprehensive survey 
 
 #### Efficient Architectures
 ![Efficient_Architectures](assets/Efficient_Architectures.png)
-Key strategies for **Efficient Architectures** in VLAs.
+Key strategies for **Efficient Architectures** in VLAs. We illustrate six primary approaches: (a) **Efficient Attention**, mitigating the $O(n^2)$ complexity of standard self-attention; (b) **Transformer Alternatives**, such as Mamba; (c) **Efficient Action Decoding**, advancing from autoregressive generation to parallel and generative methods; (d) **Lightweight Components**, adopting smaller model backbones; (e) **Mixture-of-Experts**, employing sparse activation via input routing; and (f) **Hierarchical Systems**, which decouple high-level VLM planning from low-level VLA execution.
 
 - RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.04339)]
 
@@ -39,7 +39,7 @@ Key strategies for **Efficient Architectures** in VLAs.
 
 #### Model Compression
 ![Model_Compression](assets/Model_Compression.png)
-Key strategies for **Model Compression** in VLAs.
+Key strategies for **Model Compression** in VLAs. We illustrate three primary approaches: (a) **Layer Pruning**, which removes redundant layers to reduce model depth and computational cost; (b) **Quantization**, which reduces the numerical precision of model parameters to decrease memory footprint and accelerate inference; and (c) **Token Optimization**, which minimizes the number of processed tokens via token compression (merging tokens), token pruning (dropping non-essential tokens), and token caching (reusing static tokens).
 
 ##### Layer Pruning
 - FAST: Efficient Action Tokenization for Vision-Language-Action Models. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2501.09747)]
